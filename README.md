@@ -52,6 +52,7 @@ Format:
     email1@example.com:qwerty123
     email2@example.com:mypass123
     email3@example.com:password
+    +62812345643213454:password
 
 ### 2. Jalankan script
 
